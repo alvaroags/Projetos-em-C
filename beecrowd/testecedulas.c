@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int valor, troco, cem, cinquenta, vinte, dez, cinco, dois, um;
+    int valor, cem, cinquenta, vinte, dez, cinco, dois, um;
     scanf("%d", &valor);
     cem = valor/100;
     cinquenta = valor%100 / 50;

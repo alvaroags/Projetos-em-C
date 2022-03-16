@@ -1,6 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
-        "cstdio": "c"
+        "cstdio": "c",
+        "ex002.C": "cpp"
     }
 }

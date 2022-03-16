@@ -1,6 +1,4 @@
 int main(){
-    float valor, cinquentac, vintec, dezc, cincoc, umc;
-    scanf("%f", &valor);
-    cinquentac = valor % 0.5;
-    printf("%f", cinquentac);
+    long double x = 2143154546513412;
+    __mingw_printf("Valor de x: %.0Lf", x);
 }
