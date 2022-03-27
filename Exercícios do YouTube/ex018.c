@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main(){
     float num1, num2, result;
-    int i=1, esc; 
+    int i, esc; 
     do{
         printf("1 - SOMA\n");
         printf("2 - SUBTRAIR\n");
@@ -40,8 +40,9 @@ int main(){
                     default:
                         printf("OPCAO INVALIDA!\n");
                 }
-        fflush(stdin);
-        getchar();
+        printf("\nSE DESEJA CONTINUAR DIGITE 1: ");
+        scanf("%d", &i);
+        system("cls");
     }while(i==1);
     return 0;
 }

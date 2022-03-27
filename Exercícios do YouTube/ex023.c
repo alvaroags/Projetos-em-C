@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include<stdlib.h>
 int main(){
+    int i, x, qt;
     do{  
-    int i, j, qt;
-    float salario=0.0, maiorSalario=0, menorSalario=0, media=0;
+        float salario=0.0, maiorSalario=0, menorSalario=0, media=0;
         printf("INFORME A QUANTIDADE DE USUARIOS: ");
         scanf("%d", &qt);
             while(qt<=1){
@@ -29,7 +29,7 @@ int main(){
         printf("\nMAIOR SALARIO: R$ %.2f", maiorSalario);
         printf("\nMENOR SALARIO: R$ %.2f", menorSalario);
         printf("\nDIGITE 1 PARA CONTINUAR: ");
-        scanf("%d", &j);
+        scanf("%d", &x);
         system("cls");
-    } while(j==1);
+    } while(x==1);
 }
