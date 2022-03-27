@@ -1,3 +1,4 @@
+//exercicio que informa de acordo com o que o usuario digitou a quantidade de dias que tem esse mes
 #include <stdio.h>
 #include <locale.h>
 #include <windows.h>

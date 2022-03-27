@@ -1,3 +1,4 @@
+//exercicio que apresenta o quadrado dos numeros pares ate o valor que a pessoa digitou
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

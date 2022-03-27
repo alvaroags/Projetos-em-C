@@ -1,3 +1,4 @@
+//exercicio que calcula a media dos salarios e imprime o maior e o menor
 #include <stdio.h>
 #include<stdlib.h>
 int main(){

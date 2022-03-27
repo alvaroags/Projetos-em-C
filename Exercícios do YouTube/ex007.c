@@ -1,3 +1,4 @@
+//exercicio que informa quantos numeros positivos e negativos a pessoa digitou
 #include <stdio.h>
 #include <locale.h>
 #include <windows.h>

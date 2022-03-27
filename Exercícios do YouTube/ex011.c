@@ -1,3 +1,4 @@
+//exercicio de calculo de media aritmetica ou ponderada
 #include <stdio.h>
 #include <locale.h>
 #include <windows.h>

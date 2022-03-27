@@ -1,3 +1,4 @@
+//exercicio que mostra se o numero é divisil por 2, 3 ou 5
 #include <stdio.h>
 #include <locale.h>
 #include <windows.h>

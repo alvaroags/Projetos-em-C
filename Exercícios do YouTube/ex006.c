@@ -1,3 +1,4 @@
+//exercicio que mostra o maior e o menor de 3 numeros
 #include <stdio.h>
 #include <locale.h>
 #include <windows.h>

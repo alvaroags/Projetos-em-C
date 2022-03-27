@@ -1,3 +1,4 @@
+//exercicio de conversao cambial
 #include <stdio.h>
 int main(){
     int esc, confir;

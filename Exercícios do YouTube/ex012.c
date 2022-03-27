@@ -1,3 +1,4 @@
+//exercicio de verificação de existencia dos triangulos
 #include<stdio.h>
 #include<locale.h>
 #include<windows.h>

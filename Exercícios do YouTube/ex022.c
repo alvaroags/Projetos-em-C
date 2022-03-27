@@ -1,3 +1,6 @@
+//exercicio em que se calcula a altura e idade media com condições
+//Condições: 1° calcula a idade media dos alunos com menos de 1.70 de altura
+//Condições: 2° calcula a altura media dos alunos com mais de 20 anos
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

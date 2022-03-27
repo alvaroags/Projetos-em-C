@@ -1,3 +1,4 @@
+//exercicio que informa se a letra que a pessoa digitou é uma vogal ou consoante
 #include <stdio.h>
 #include <locale.h>
 #include <windows.h>

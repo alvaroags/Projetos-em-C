@@ -1,3 +1,4 @@
+//exercicio da poupança que vai acumulando dinheiro
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

@@ -1,3 +1,4 @@
+//exercicio de troca de variaveis sem variavel adicional
 #include <stdio.h>
 int main(){
     int a, b;

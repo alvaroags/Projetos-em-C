@@ -1,3 +1,4 @@
+//exercicio do calculo de meia-vida
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

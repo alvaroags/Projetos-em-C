@@ -1,3 +1,4 @@
+//exercicio de calculo de uma conta de bar
 int main(){
     float conta, porc;
     int pess;

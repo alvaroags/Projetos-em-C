@@ -1,3 +1,4 @@
+//exericicio que soma todos os numeros ate o valor que a pessoa digitou
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

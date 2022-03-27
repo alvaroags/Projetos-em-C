@@ -1,4 +1,4 @@
-#include <math.h>
+//exercicio do calculo de salario com desconto
 int main(){
     float salario;
     salario = 45.00;

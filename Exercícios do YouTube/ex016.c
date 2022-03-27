@@ -1,3 +1,4 @@
+//exercicio de imprimir os multiplos de 7
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

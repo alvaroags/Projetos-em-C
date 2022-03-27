@@ -1,3 +1,4 @@
+//exercicio do calculo da media de notas
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

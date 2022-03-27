@@ -1,3 +1,4 @@
+//exercicio de verificador de senhas
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

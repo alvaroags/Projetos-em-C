@@ -1,3 +1,4 @@
+//exercicio de IMPRESSAO DA SOMA DOS NUMEROS IMPARES DE 1 A 1000 
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

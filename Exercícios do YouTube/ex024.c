@@ -1,3 +1,4 @@
+//exercicio de multiplicação sem utilizar o *
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
