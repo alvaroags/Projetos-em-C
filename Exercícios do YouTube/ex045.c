@@ -13,11 +13,11 @@ int main(){
     for(i=0;i<=tam;i++){
         if(palavras[i]==palavras[x])
             x--;
-        else if(palavras[x]==' '){
+        else if((palavras[x]==' ')||(palavras[x]=='!')||(palavras[x]=='.')){
             x--;
             i--;
         }
-        else if(palavras[i]==' ')
+        else if((palavras[i]==' ')||(palavras[i]=='!')||(palavras[i]=='.'))
             i=i;
         else    
             diferente++;
