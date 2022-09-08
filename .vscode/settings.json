@@ -2,6 +2,7 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
         "cstdio": "c",
-        "ex002.C": "cpp"
+        "ex002.C": "cpp",
+        "campoMinado2.0.C": "cpp"
     }
 }
